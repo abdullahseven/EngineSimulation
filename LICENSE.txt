@@ -1,0 +1,15 @@
+Engine Simulation
+Copyright (c) 2026 Abdullah Sajid. All rights reserved.
+
+You may use this website in your browser for personal, non-commercial purposes.
+You may not copy, modify, decompile, reverse engineer, redistribute, sell or
+republish this software or any part of it, except where a third-party license
+listed in THIRD-PARTY-NOTICES.txt expressly allows it for that component.
+
+Parts of this software are based on Engine Simulator by AngeTheGreat
+(Ange Yaghi), used under the MIT License. Those parts remain under the MIT
+License, and its notice is reproduced in THIRD-PARTY-NOTICES.txt.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
